@@ -7,7 +7,7 @@ The Sign Language Recognition System is a project aimed at facilitating communic
 **Installation**
 To run this project locally, follow these steps:
 
-Clone the repository: git clonehttps://github.com/RehanNaveid/Sign-Languge-git
+Clone the repository: git clone https://github.com/RehanNaveid/Sign-Languge-.git
 Install required dependencies: pip install -r requirements.txt
 Download the dataset (if applicable) and trained model (if provided).
 
